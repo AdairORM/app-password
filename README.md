@@ -9,4 +9,6 @@ Para ello se desarrollará en el lenguaje de programación **C#**.
 ## Se tomará como inspiración la aplpicación 1Password
 Esperando tener un producto final como se muestra a continuación
 
+![Imagen obtenida de la página web xataka movil](https://i.blogs.es/33d293/captura-de-pantalla-2018-07-12-a-las-16.18.33/1366_2000.webp)
+
 
