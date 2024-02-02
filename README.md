@@ -6,6 +6,7 @@ Para ello se desarrollará en el lenguaje de programación **C#**.
 
 <sub> Para más información entrar en el siguiente enlace:  https://learn.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/<sub/>
 
-
+## Se tomará como inspiración la aplpicación 1Password
+Esperando tener un producto final como se muestra a continuación
 
 
